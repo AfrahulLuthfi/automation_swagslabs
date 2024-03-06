@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_011-Checkout Step 3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9369c6e0-06da-4e28-843a-b7e34eea09d0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3a726cfd-3594-4f8d-9576-54a84611e819</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e638c659-d070-44bd-9d02-b7262e68b1db</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>232fb058-765c-433c-9a01-aa35478b7203</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Afrahul'</defaultValue>
+      <description></description>
+      <id>3a726cfd-3594-4f8d-9576-54a84611e819</id>
+      <masked>false</masked>
+      <name>first</name>
+   </variable>
+   <variable>
+      <defaultValue>'Luthfi'</defaultValue>
+      <description></description>
+      <id>e638c659-d070-44bd-9d02-b7262e68b1db</id>
+      <masked>false</masked>
+      <name>last</name>
+   </variable>
+   <variable>
+      <defaultValue>'12504'</defaultValue>
+      <description></description>
+      <id>232fb058-765c-433c-9a01-aa35478b7203</id>
+      <masked>false</masked>
+      <name>postal</name>
+   </variable>
+</TestCaseEntity>
